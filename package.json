@@ -1,0 +1,15 @@
+{
+  "name": "class-reminder-bot",
+  "version": "0.0.1",
+  "description": "Reminder bot for classes",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EpicPuppy613",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.4.1"
+  }
+}
